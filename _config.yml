@@ -9,7 +9,7 @@ name: Farhan's Lab
 description: I am an Electronics Engineer focused on building smart devices.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: 
+# avatar: 
 
 #
 # Flags below are optional
@@ -23,7 +23,7 @@ footer-links:
   flickr:
   github: nahknahraf
   instagram: nahknahraf
-  linkedin: /in/nahknahraf
+  linkedin: nahknahraf
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: nahknahraf
